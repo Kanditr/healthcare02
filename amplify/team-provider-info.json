@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-healthcare02-dev-153149-authRole",
+      "UnauthRoleArn": "arn:aws:iam::557715531417:role/amplify-healthcare02-dev-153149-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::557715531417:role/amplify-healthcare02-dev-153149-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-healthcare02-dev-153149-deployment",
+      "UnauthRoleName": "amplify-healthcare02-dev-153149-unauthRole",
+      "StackName": "amplify-healthcare02-dev-153149",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:557715531417:stack/amplify-healthcare02-dev-153149/fd994a90-c575-11ec-b274-0675ac611898",
+      "AmplifyAppId": "d3ittsm1s2h0yg"
+    }
+  }
+}
